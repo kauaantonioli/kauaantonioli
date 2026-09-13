@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Olá, eu sou Kauã
 
-<!--
-**kauaantonioli/kauaantonioli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Desenvolvedor Full Stack Júnior
 
-Here are some ideas to get you started:
+## 💻 Atualmente trabalhando em
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔨 Projetos pessoais para aprimorar minhas habilidades
+- 🌱 Estudando e desenvolvendo aplicações Full Stack
+- 📚 Aprendendo novas tecnologias e boas práticas de desenvolvimento
+
+## 🔨 Linguagens e Ferramentas
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,mongodb)](https://skillicons.dev)
+
+## 📫 Onde me encontrar
+
+- 💼 LinkedIn
+- 🐙 GitHub
+- 📸 Instagram
+- 📧 E-mail
