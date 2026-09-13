@@ -6,7 +6,7 @@
 
 - 🔨 Projetos pessoais para aprimorar minhas habilidades
 - 🌱 Estudando e desenvolvendo aplicações Full Stack
-- 📚 Aprendendo novas tecnologias e boas práticas de desenvolvimento
+- 📕 Aprendendo novas tecnologias e boas práticas de desenvolvimento
 
 ## 🔨 Linguagens e Ferramentas
 
