@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👨‍💻 Kauã Antonioli
 
-<!--
-**kauaantonioli/kauaantonioli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`🔥 Desenvolvedor Júnior Full-Stack`**
 
-Here are some ideas to get you started:
+Me chamo Kaua Ferreira Antonioli, tenho 17 anos e moro no estado de São Paulo. Atualmente, estou focado nos estudos e no aprendizado na área de tecnologia, buscando constantemente aprimorar meus conhecimentos e desenvolver novas habilidades. Ainda estou cursando o 3º ano do ensino médio, mas já possuo conhecimentos em diversas áreas da programação e tecnologia. Sou apaixonado por desenvolvimento e gosto de aprender, criar projetos e explorar novas tecnologias, sempre buscando evoluir cada vez mais como desenvolvedor.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Ferramentas e Tecnologias
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,python,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
